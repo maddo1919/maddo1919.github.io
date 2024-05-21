@@ -27,13 +27,13 @@
 }
 
 #block{
-    background-color: blue;
+    background-color: black;
     width: 20px;
     height: 20px;
     position: relative;
     top: 130px;
     left: 500px;
-    animation: block 1s infinite linear;
+    animation: block 2s infinite linear;
 }
 @keyframes block{
     0%{left: 500px}
